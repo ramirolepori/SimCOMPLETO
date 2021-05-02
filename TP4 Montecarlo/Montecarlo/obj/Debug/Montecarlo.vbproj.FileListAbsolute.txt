@@ -1,0 +1,36 @@
+C:\Users\Santiago Costa\Desktop\TP4 Montecarlo\Montecarlo\bin\Debug\Montecarlo.exe.config
+C:\Users\Santiago Costa\Desktop\TP4 Montecarlo\Montecarlo\bin\Debug\Montecarlo.exe
+C:\Users\Santiago Costa\Desktop\TP4 Montecarlo\Montecarlo\bin\Debug\Montecarlo.pdb
+C:\Users\Santiago Costa\Desktop\TP4 Montecarlo\Montecarlo\bin\Debug\Montecarlo.xml
+C:\Users\Santiago Costa\Desktop\TP4 Montecarlo\Montecarlo\obj\Debug\Montecarlo.vbprojAssemblyReference.cache
+C:\Users\Santiago Costa\Desktop\TP4 Montecarlo\Montecarlo\obj\Debug\Montecarlo.Form1.resources
+C:\Users\Santiago Costa\Desktop\TP4 Montecarlo\Montecarlo\obj\Debug\Montecarlo.Resources.resources
+C:\Users\Santiago Costa\Desktop\TP4 Montecarlo\Montecarlo\obj\Debug\Montecarlo.vbproj.GenerateResource.cache
+C:\Users\Santiago Costa\Desktop\TP4 Montecarlo\Montecarlo\obj\Debug\Montecarlo.vbproj.CoreCompileInputs.cache
+C:\Users\Santiago Costa\Desktop\TP4 Montecarlo\Montecarlo\obj\Debug\Montecarlo.exe
+C:\Users\Santiago Costa\Desktop\TP4 Montecarlo\Montecarlo\obj\Debug\Montecarlo.xml
+C:\Users\Santiago Costa\Desktop\TP4 Montecarlo\Montecarlo\obj\Debug\Montecarlo.pdb
+D:\Ing. en Sistemas - UTN\00_MATERIAS\4° AÑO\SIM\Trabajos Prácticos\TP4\TP4 Montecarlo\Montecarlo\bin\Debug\Montecarlo.exe.config
+D:\Ing. en Sistemas - UTN\00_MATERIAS\4° AÑO\SIM\Trabajos Prácticos\TP4\TP4 Montecarlo\Montecarlo\bin\Debug\Montecarlo.exe
+D:\Ing. en Sistemas - UTN\00_MATERIAS\4° AÑO\SIM\Trabajos Prácticos\TP4\TP4 Montecarlo\Montecarlo\bin\Debug\Montecarlo.pdb
+D:\Ing. en Sistemas - UTN\00_MATERIAS\4° AÑO\SIM\Trabajos Prácticos\TP4\TP4 Montecarlo\Montecarlo\bin\Debug\Montecarlo.xml
+D:\Ing. en Sistemas - UTN\00_MATERIAS\4° AÑO\SIM\Trabajos Prácticos\TP4\TP4 Montecarlo\Montecarlo\obj\Debug\Montecarlo.vbprojAssemblyReference.cache
+D:\Ing. en Sistemas - UTN\00_MATERIAS\4° AÑO\SIM\Trabajos Prácticos\TP4\TP4 Montecarlo\Montecarlo\obj\Debug\Montecarlo.Form1.resources
+D:\Ing. en Sistemas - UTN\00_MATERIAS\4° AÑO\SIM\Trabajos Prácticos\TP4\TP4 Montecarlo\Montecarlo\obj\Debug\Montecarlo.Resources.resources
+D:\Ing. en Sistemas - UTN\00_MATERIAS\4° AÑO\SIM\Trabajos Prácticos\TP4\TP4 Montecarlo\Montecarlo\obj\Debug\Montecarlo.vbproj.GenerateResource.cache
+D:\Ing. en Sistemas - UTN\00_MATERIAS\4° AÑO\SIM\Trabajos Prácticos\TP4\TP4 Montecarlo\Montecarlo\obj\Debug\Montecarlo.vbproj.CoreCompileInputs.cache
+D:\Ing. en Sistemas - UTN\00_MATERIAS\4° AÑO\SIM\Trabajos Prácticos\TP4\TP4 Montecarlo\Montecarlo\obj\Debug\Montecarlo.exe
+D:\Ing. en Sistemas - UTN\00_MATERIAS\4° AÑO\SIM\Trabajos Prácticos\TP4\TP4 Montecarlo\Montecarlo\obj\Debug\Montecarlo.xml
+D:\Ing. en Sistemas - UTN\00_MATERIAS\4° AÑO\SIM\Trabajos Prácticos\TP4\TP4 Montecarlo\Montecarlo\obj\Debug\Montecarlo.pdb
+C:\Users\santi\Desktop\SIM\TP4 Montecarlo\Montecarlo\bin\Debug\Montecarlo.exe.config
+C:\Users\santi\Desktop\SIM\TP4 Montecarlo\Montecarlo\bin\Debug\Montecarlo.exe
+C:\Users\santi\Desktop\SIM\TP4 Montecarlo\Montecarlo\bin\Debug\Montecarlo.pdb
+C:\Users\santi\Desktop\SIM\TP4 Montecarlo\Montecarlo\bin\Debug\Montecarlo.xml
+C:\Users\santi\Desktop\SIM\TP4 Montecarlo\Montecarlo\obj\Debug\Montecarlo.vbprojAssemblyReference.cache
+C:\Users\santi\Desktop\SIM\TP4 Montecarlo\Montecarlo\obj\Debug\Montecarlo.Form1.resources
+C:\Users\santi\Desktop\SIM\TP4 Montecarlo\Montecarlo\obj\Debug\Montecarlo.Resources.resources
+C:\Users\santi\Desktop\SIM\TP4 Montecarlo\Montecarlo\obj\Debug\Montecarlo.vbproj.GenerateResource.cache
+C:\Users\santi\Desktop\SIM\TP4 Montecarlo\Montecarlo\obj\Debug\Montecarlo.vbproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\SIM\TP4 Montecarlo\Montecarlo\obj\Debug\Montecarlo.exe
+C:\Users\santi\Desktop\SIM\TP4 Montecarlo\Montecarlo\obj\Debug\Montecarlo.xml
+C:\Users\santi\Desktop\SIM\TP4 Montecarlo\Montecarlo\obj\Debug\Montecarlo.pdb

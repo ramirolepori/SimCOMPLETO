@@ -1,0 +1,90 @@
+C:\Users\Santiago Costa\Desktop\TP3\TP3\bin\Debug\TP3.exe.config
+C:\Users\Santiago Costa\Desktop\TP3\TP3\bin\Debug\TP3.exe
+C:\Users\Santiago Costa\Desktop\TP3\TP3\bin\Debug\TP3.pdb
+C:\Users\Santiago Costa\Desktop\TP3\TP3\bin\Debug\TP3.xml
+C:\Users\Santiago Costa\Desktop\TP3\TP3\obj\Debug\TP3.vbprojAssemblyReference.cache
+C:\Users\Santiago Costa\Desktop\TP3\TP3\obj\Debug\TP3.Menu.resources
+C:\Users\Santiago Costa\Desktop\TP3\TP3\obj\Debug\TP3.Resources.resources
+C:\Users\Santiago Costa\Desktop\TP3\TP3\obj\Debug\TP3.vbproj.GenerateResource.cache
+C:\Users\Santiago Costa\Desktop\TP3\TP3\obj\Debug\TP3.vbproj.CoreCompileInputs.cache
+C:\Users\Santiago Costa\Desktop\TP3\TP3\obj\Debug\TP3.exe
+C:\Users\Santiago Costa\Desktop\TP3\TP3\obj\Debug\TP3.xml
+C:\Users\Santiago Costa\Desktop\TP3\TP3\obj\Debug\TP3.pdb
+C:\Users\Santiago Costa\Desktop\TP3\TP3\obj\Debug\TP3.Form2.resources
+D:\Ing. en Sistemas - UTN\00_MATERIAS\4° AÑO\SIM\Trabajos Prácticos\TP3\TP3\TP3\bin\Debug\TP3.exe.config
+D:\Ing. en Sistemas - UTN\00_MATERIAS\4° AÑO\SIM\Trabajos Prácticos\TP3\TP3\TP3\bin\Debug\TP3.exe
+D:\Ing. en Sistemas - UTN\00_MATERIAS\4° AÑO\SIM\Trabajos Prácticos\TP3\TP3\TP3\bin\Debug\TP3.pdb
+D:\Ing. en Sistemas - UTN\00_MATERIAS\4° AÑO\SIM\Trabajos Prácticos\TP3\TP3\TP3\bin\Debug\TP3.xml
+D:\Ing. en Sistemas - UTN\00_MATERIAS\4° AÑO\SIM\Trabajos Prácticos\TP3\TP3\TP3\obj\Debug\TP3.vbprojAssemblyReference.cache
+D:\Ing. en Sistemas - UTN\00_MATERIAS\4° AÑO\SIM\Trabajos Prácticos\TP3\TP3\TP3\obj\Debug\TP3.Menu.resources
+D:\Ing. en Sistemas - UTN\00_MATERIAS\4° AÑO\SIM\Trabajos Prácticos\TP3\TP3\TP3\obj\Debug\TP3.Form2.resources
+D:\Ing. en Sistemas - UTN\00_MATERIAS\4° AÑO\SIM\Trabajos Prácticos\TP3\TP3\TP3\obj\Debug\TP3.Form3.resources
+D:\Ing. en Sistemas - UTN\00_MATERIAS\4° AÑO\SIM\Trabajos Prácticos\TP3\TP3\TP3\obj\Debug\TP3.Resources.resources
+D:\Ing. en Sistemas - UTN\00_MATERIAS\4° AÑO\SIM\Trabajos Prácticos\TP3\TP3\TP3\obj\Debug\TP3.vbproj.GenerateResource.cache
+D:\Ing. en Sistemas - UTN\00_MATERIAS\4° AÑO\SIM\Trabajos Prácticos\TP3\TP3\TP3\obj\Debug\TP3.vbproj.CoreCompileInputs.cache
+D:\Ing. en Sistemas - UTN\00_MATERIAS\4° AÑO\SIM\Trabajos Prácticos\TP3\TP3\TP3\obj\Debug\TP3.exe
+D:\Ing. en Sistemas - UTN\00_MATERIAS\4° AÑO\SIM\Trabajos Prácticos\TP3\TP3\TP3\obj\Debug\TP3.xml
+D:\Ing. en Sistemas - UTN\00_MATERIAS\4° AÑO\SIM\Trabajos Prácticos\TP3\TP3\TP3\obj\Debug\TP3.pdb
+F:\SIM\TP3\TP3\TP3\obj\Debug\TP3.vbprojAssemblyReference.cache
+F:\SIM\TP3\TP3\TP3\obj\Debug\TP3.Menu.resources
+F:\SIM\TP3\TP3\TP3\obj\Debug\TP3.Form2.resources
+F:\SIM\TP3\TP3\TP3\obj\Debug\TP3.Form3.resources
+F:\SIM\TP3\TP3\TP3\obj\Debug\TP3.Resources.resources
+F:\SIM\TP3\TP3\TP3\obj\Debug\TP3.vbproj.GenerateResource.cache
+F:\SIM\TP3\TP3\TP3\obj\Debug\TP3.vbproj.CoreCompileInputs.cache
+F:\SIM\TP3\TP3\TP3\obj\Debug\TP3.exe
+F:\SIM\TP3\TP3\TP3\obj\Debug\TP3.xml
+F:\SIM\TP3\TP3\TP3\obj\Debug\TP3.pdb
+F:\SIM\TP3\TP3\TP3\bin\Debug\TP3.exe.config
+F:\SIM\TP3\TP3\TP3\bin\Debug\TP3.exe
+F:\SIM\TP3\TP3\TP3\bin\Debug\TP3.pdb
+F:\SIM\TP3\TP3\TP3\bin\Debug\TP3.xml
+F:\SIM\TP3\TP3\TP3\obj\Debug\TP3.Form4.resources
+G:\SIM\TP3\TP3\TP3\bin\Debug\TP3.exe.config
+G:\SIM\TP3\TP3\TP3\bin\Debug\TP3.exe
+G:\SIM\TP3\TP3\TP3\bin\Debug\TP3.pdb
+G:\SIM\TP3\TP3\TP3\bin\Debug\TP3.xml
+G:\SIM\TP3\TP3\TP3\obj\Debug\TP3.vbprojAssemblyReference.cache
+G:\SIM\TP3\TP3\TP3\obj\Debug\TP3.Menu.resources
+G:\SIM\TP3\TP3\TP3\obj\Debug\TP3.Form2.resources
+G:\SIM\TP3\TP3\TP3\obj\Debug\TP3.Form3.resources
+G:\SIM\TP3\TP3\TP3\obj\Debug\TP3.Form4.resources
+G:\SIM\TP3\TP3\TP3\obj\Debug\TP3.Resources.resources
+G:\SIM\TP3\TP3\TP3\obj\Debug\TP3.vbproj.GenerateResource.cache
+G:\SIM\TP3\TP3\TP3\obj\Debug\TP3.vbproj.CoreCompileInputs.cache
+G:\SIM\TP3\TP3\TP3\obj\Debug\TP3.exe
+G:\SIM\TP3\TP3\TP3\obj\Debug\TP3.xml
+G:\SIM\TP3\TP3\TP3\obj\Debug\TP3.pdb
+G:\SIM\TP3\TP3\TP3\obj\Debug\TP3.Form5.resources
+C:\Users\amari\Desktop\TP3\bin\Debug\TP3.exe.config
+C:\Users\amari\Desktop\TP3\bin\Debug\TP3.exe
+C:\Users\amari\Desktop\TP3\bin\Debug\TP3.pdb
+C:\Users\amari\Desktop\TP3\bin\Debug\TP3.xml
+C:\Users\amari\Desktop\TP3\obj\Debug\TP3.vbprojAssemblyReference.cache
+C:\Users\amari\Desktop\TP3\obj\Debug\TP3.Menu.resources
+C:\Users\amari\Desktop\TP3\obj\Debug\TP3.Form2.resources
+C:\Users\amari\Desktop\TP3\obj\Debug\TP3.Form3.resources
+C:\Users\amari\Desktop\TP3\obj\Debug\TP3.Form4.resources
+C:\Users\amari\Desktop\TP3\obj\Debug\TP3.Form5.resources
+C:\Users\amari\Desktop\TP3\obj\Debug\TP3.Resources.resources
+C:\Users\amari\Desktop\TP3\obj\Debug\TP3.vbproj.GenerateResource.cache
+C:\Users\amari\Desktop\TP3\obj\Debug\TP3.vbproj.CoreCompileInputs.cache
+C:\Users\amari\Desktop\TP3\obj\Debug\TP3.exe
+C:\Users\amari\Desktop\TP3\obj\Debug\TP3.xml
+C:\Users\amari\Desktop\TP3\obj\Debug\TP3.pdb
+C:\Users\santi\Desktop\TP3\bin\Debug\TP3.exe.config
+C:\Users\santi\Desktop\TP3\bin\Debug\TP3.exe
+C:\Users\santi\Desktop\TP3\bin\Debug\TP3.pdb
+C:\Users\santi\Desktop\TP3\bin\Debug\TP3.xml
+C:\Users\santi\Desktop\TP3\obj\Debug\TP3.vbprojAssemblyReference.cache
+C:\Users\santi\Desktop\TP3\obj\Debug\TP3.Menu.resources
+C:\Users\santi\Desktop\TP3\obj\Debug\TP3.Form2.resources
+C:\Users\santi\Desktop\TP3\obj\Debug\TP3.Form3.resources
+C:\Users\santi\Desktop\TP3\obj\Debug\TP3.Form4.resources
+C:\Users\santi\Desktop\TP3\obj\Debug\TP3.Form5.resources
+C:\Users\santi\Desktop\TP3\obj\Debug\TP3.Resources.resources
+C:\Users\santi\Desktop\TP3\obj\Debug\TP3.vbproj.GenerateResource.cache
+C:\Users\santi\Desktop\TP3\obj\Debug\TP3.vbproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\TP3\obj\Debug\TP3.exe
+C:\Users\santi\Desktop\TP3\obj\Debug\TP3.xml
+C:\Users\santi\Desktop\TP3\obj\Debug\TP3.pdb

@@ -1,0 +1,66 @@
+C:\Users\amari\AppData\Local\Temporary Projects\TP1 SIM\bin\Debug\TP1 SIM.exe.config
+C:\Users\amari\AppData\Local\Temporary Projects\TP1 SIM\bin\Debug\TP1 SIM.exe
+C:\Users\amari\AppData\Local\Temporary Projects\TP1 SIM\bin\Debug\TP1 SIM.pdb
+C:\Users\amari\AppData\Local\Temporary Projects\TP1 SIM\bin\Debug\TP1 SIM.xml
+C:\Users\amari\AppData\Local\Temporary Projects\TP1 SIM\obj\Debug\TP1 SIM.vbprojAssemblyReference.cache
+C:\Users\amari\AppData\Local\Temporary Projects\TP1 SIM\obj\Debug\TP1_SIM.Form1.resources
+C:\Users\amari\AppData\Local\Temporary Projects\TP1 SIM\obj\Debug\TP1_SIM.Resources.resources
+C:\Users\amari\AppData\Local\Temporary Projects\TP1 SIM\obj\Debug\TP1 SIM.vbproj.GenerateResource.cache
+C:\Users\amari\AppData\Local\Temporary Projects\TP1 SIM\obj\Debug\TP1 SIM.vbproj.CoreCompileInputs.cache
+C:\Users\amari\AppData\Local\Temporary Projects\TP1 SIM\obj\Debug\TP1 SIM.exe
+C:\Users\amari\AppData\Local\Temporary Projects\TP1 SIM\obj\Debug\TP1 SIM.xml
+C:\Users\amari\AppData\Local\Temporary Projects\TP1 SIM\obj\Debug\TP1 SIM.pdb
+C:\Users\amari\source\repos\TP1 SIM\TP1 SIM\bin\Debug\TP1 SIM.exe.config
+C:\Users\amari\source\repos\TP1 SIM\TP1 SIM\bin\Debug\TP1 SIM.exe
+C:\Users\amari\source\repos\TP1 SIM\TP1 SIM\bin\Debug\TP1 SIM.pdb
+C:\Users\amari\source\repos\TP1 SIM\TP1 SIM\bin\Debug\TP1 SIM.xml
+C:\Users\amari\source\repos\TP1 SIM\TP1 SIM\obj\Debug\TP1 SIM.vbprojAssemblyReference.cache
+C:\Users\amari\source\repos\TP1 SIM\TP1 SIM\obj\Debug\TP1_SIM.Form1.resources
+C:\Users\amari\source\repos\TP1 SIM\TP1 SIM\obj\Debug\TP1_SIM.Resources.resources
+C:\Users\amari\source\repos\TP1 SIM\TP1 SIM\obj\Debug\TP1 SIM.vbproj.GenerateResource.cache
+C:\Users\amari\source\repos\TP1 SIM\TP1 SIM\obj\Debug\TP1 SIM.vbproj.CoreCompileInputs.cache
+C:\Users\amari\source\repos\TP1 SIM\TP1 SIM\obj\Debug\TP1 SIM.exe
+C:\Users\amari\source\repos\TP1 SIM\TP1 SIM\obj\Debug\TP1 SIM.xml
+C:\Users\amari\source\repos\TP1 SIM\TP1 SIM\obj\Debug\TP1 SIM.pdb
+C:\Users\amari\Desktop\TP1 SIM\TP1 SIM\bin\Debug\TP1 SIM.exe.config
+C:\Users\amari\Desktop\TP1 SIM\TP1 SIM\bin\Debug\TP1 SIM.exe
+C:\Users\amari\Desktop\TP1 SIM\TP1 SIM\bin\Debug\TP1 SIM.pdb
+C:\Users\amari\Desktop\TP1 SIM\TP1 SIM\bin\Debug\TP1 SIM.xml
+C:\Users\amari\Desktop\TP1 SIM\TP1 SIM\obj\Debug\TP1 SIM.vbprojAssemblyReference.cache
+C:\Users\amari\Desktop\TP1 SIM\TP1 SIM\obj\Debug\TP1_SIM.Form1.resources
+C:\Users\amari\Desktop\TP1 SIM\TP1 SIM\obj\Debug\TP1_SIM.Resources.resources
+C:\Users\amari\Desktop\TP1 SIM\TP1 SIM\obj\Debug\TP1 SIM.vbproj.GenerateResource.cache
+C:\Users\amari\Desktop\TP1 SIM\TP1 SIM\obj\Debug\TP1 SIM.vbproj.CoreCompileInputs.cache
+C:\Users\amari\Desktop\TP1 SIM\TP1 SIM\obj\Debug\TP1 SIM.exe
+C:\Users\amari\Desktop\TP1 SIM\TP1 SIM\obj\Debug\TP1 SIM.xml
+C:\Users\amari\Desktop\TP1 SIM\TP1 SIM\obj\Debug\TP1 SIM.pdb
+C:\Users\amari\Desktop\TP1 SIM\TP1 SIM\obj\Debug\TP1_SIM.Chi.resources
+C:\Users\amari\Desktop\TP1 SIM\TP1 SIM\obj\Debug\TP1_SIM.Grafica.resources
+C:\Users\santi\Desktop\TP1 SIM\TP1 SIM\bin\Debug\TP1 SIM.exe.config
+C:\Users\santi\Desktop\TP1 SIM\TP1 SIM\bin\Debug\TP1 SIM.exe
+C:\Users\santi\Desktop\TP1 SIM\TP1 SIM\bin\Debug\TP1 SIM.pdb
+C:\Users\santi\Desktop\TP1 SIM\TP1 SIM\bin\Debug\TP1 SIM.xml
+C:\Users\santi\Desktop\TP1 SIM\TP1 SIM\obj\Debug\TP1 SIM.vbprojAssemblyReference.cache
+C:\Users\santi\Desktop\TP1 SIM\TP1 SIM\obj\Debug\TP1_SIM.Chi.resources
+C:\Users\santi\Desktop\TP1 SIM\TP1 SIM\obj\Debug\TP1_SIM.Grafica.resources
+C:\Users\santi\Desktop\TP1 SIM\TP1 SIM\obj\Debug\TP1_SIM.Form1.resources
+C:\Users\santi\Desktop\TP1 SIM\TP1 SIM\obj\Debug\TP1_SIM.Resources.resources
+C:\Users\santi\Desktop\TP1 SIM\TP1 SIM\obj\Debug\TP1 SIM.vbproj.GenerateResource.cache
+C:\Users\santi\Desktop\TP1 SIM\TP1 SIM\obj\Debug\TP1 SIM.vbproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\TP1 SIM\TP1 SIM\obj\Debug\TP1 SIM.exe
+C:\Users\santi\Desktop\TP1 SIM\TP1 SIM\obj\Debug\TP1 SIM.xml
+C:\Users\santi\Desktop\TP1 SIM\TP1 SIM\obj\Debug\TP1 SIM.pdb
+C:\Users\RamiroLepori\OneDrive - frc.utn.edu.ar\Facu\Simulacion\sim santi\TP1\TP1 SIM\bin\Debug\TP1 SIM.exe.config
+C:\Users\RamiroLepori\OneDrive - frc.utn.edu.ar\Facu\Simulacion\sim santi\TP1\TP1 SIM\bin\Debug\TP1 SIM.exe
+C:\Users\RamiroLepori\OneDrive - frc.utn.edu.ar\Facu\Simulacion\sim santi\TP1\TP1 SIM\bin\Debug\TP1 SIM.pdb
+C:\Users\RamiroLepori\OneDrive - frc.utn.edu.ar\Facu\Simulacion\sim santi\TP1\TP1 SIM\bin\Debug\TP1 SIM.xml
+C:\Users\RamiroLepori\OneDrive - frc.utn.edu.ar\Facu\Simulacion\sim santi\TP1\TP1 SIM\obj\Debug\TP1 SIM.vbprojAssemblyReference.cache
+C:\Users\RamiroLepori\OneDrive - frc.utn.edu.ar\Facu\Simulacion\sim santi\TP1\TP1 SIM\obj\Debug\TP1_SIM.Chi.resources
+C:\Users\RamiroLepori\OneDrive - frc.utn.edu.ar\Facu\Simulacion\sim santi\TP1\TP1 SIM\obj\Debug\TP1_SIM.Grafica.resources
+C:\Users\RamiroLepori\OneDrive - frc.utn.edu.ar\Facu\Simulacion\sim santi\TP1\TP1 SIM\obj\Debug\TP1_SIM.Form1.resources
+C:\Users\RamiroLepori\OneDrive - frc.utn.edu.ar\Facu\Simulacion\sim santi\TP1\TP1 SIM\obj\Debug\TP1_SIM.Resources.resources
+C:\Users\RamiroLepori\OneDrive - frc.utn.edu.ar\Facu\Simulacion\sim santi\TP1\TP1 SIM\obj\Debug\TP1 SIM.vbproj.GenerateResource.cache
+C:\Users\RamiroLepori\OneDrive - frc.utn.edu.ar\Facu\Simulacion\sim santi\TP1\TP1 SIM\obj\Debug\TP1 SIM.vbproj.CoreCompileInputs.cache
+C:\Users\RamiroLepori\OneDrive - frc.utn.edu.ar\Facu\Simulacion\sim santi\TP1\TP1 SIM\obj\Debug\TP1 SIM.exe
+C:\Users\RamiroLepori\OneDrive - frc.utn.edu.ar\Facu\Simulacion\sim santi\TP1\TP1 SIM\obj\Debug\TP1 SIM.xml
+C:\Users\RamiroLepori\OneDrive - frc.utn.edu.ar\Facu\Simulacion\sim santi\TP1\TP1 SIM\obj\Debug\TP1 SIM.pdb

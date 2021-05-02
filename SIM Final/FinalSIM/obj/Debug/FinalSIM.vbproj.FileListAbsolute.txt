@@ -1,0 +1,12 @@
+C:\Users\Santiago Costa\Desktop\SIM TP19\FinalSIM\bin\Debug\FinalSIM.exe.config
+C:\Users\Santiago Costa\Desktop\SIM TP19\FinalSIM\bin\Debug\FinalSIM.exe
+C:\Users\Santiago Costa\Desktop\SIM TP19\FinalSIM\bin\Debug\FinalSIM.pdb
+C:\Users\Santiago Costa\Desktop\SIM TP19\FinalSIM\bin\Debug\FinalSIM.xml
+C:\Users\Santiago Costa\Desktop\SIM TP19\FinalSIM\obj\Debug\FinalSIM.vbprojAssemblyReference.cache
+C:\Users\Santiago Costa\Desktop\SIM TP19\FinalSIM\obj\Debug\FinalSIM.Form1.resources
+C:\Users\Santiago Costa\Desktop\SIM TP19\FinalSIM\obj\Debug\FinalSIM.Resources.resources
+C:\Users\Santiago Costa\Desktop\SIM TP19\FinalSIM\obj\Debug\FinalSIM.vbproj.GenerateResource.cache
+C:\Users\Santiago Costa\Desktop\SIM TP19\FinalSIM\obj\Debug\FinalSIM.vbproj.CoreCompileInputs.cache
+C:\Users\Santiago Costa\Desktop\SIM TP19\FinalSIM\obj\Debug\FinalSIM.exe
+C:\Users\Santiago Costa\Desktop\SIM TP19\FinalSIM\obj\Debug\FinalSIM.xml
+C:\Users\Santiago Costa\Desktop\SIM TP19\FinalSIM\obj\Debug\FinalSIM.pdb
